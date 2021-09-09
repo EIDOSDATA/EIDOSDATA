@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=EIDOSDATA&show_icons=true&theme=github_dark" />
+  <img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIDOSDATA&hide_title=false&layout=compact&theme=github_dark&count_private=true" />
 </a>
