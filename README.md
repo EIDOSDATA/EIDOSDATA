@@ -1,5 +1,5 @@
 ### Hello World! This is EIDOS!👋
-
+I’m currently learning FPGA
 <!--
 **EIDOSDATA/EIDOSDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
