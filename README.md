@@ -1,5 +1,13 @@
 ### Hello World! This is EIDOS!👋
-I’m currently learning FPGA
+I’m currently learning FPGA & Rust
+-----
+### My Interest 😄 
+- Verilog, VHDL
+- VNS(*vagus nerve stimulation) Logic
+- RF, BLE, Circuit, Rust
+
+<br>
+
 <!--
 **EIDOSDATA/EIDOSDATA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
